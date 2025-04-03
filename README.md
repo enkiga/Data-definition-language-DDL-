@@ -1,10 +1,10 @@
-# Data definition language (DDL) Checkpoint
+# Data definition language (DDL) & Data Manipulation language (DML) Checkpoint
 
 ## Checkpoint
 
-In this checkpoint, we have the following relational model: `https://i.imgur.com/aZeHhHe.png`
+- In this checkpoint, we have the following relational model: `https://i.imgur.com/aZeHhHe.png` and their corresponding data types tables: `https://i.imgur.com/vx1xFvS.png`
 
-and their corresponding data types tables: `https://i.imgur.com/vx1xFvS.png`
+- In this checkpoint, we have the following relational model created. Now we must insert data into the different tables using DML language: `https://i.imgur.com/q25t2MI.png`
 
 ### Instructions
 
@@ -12,6 +12,7 @@ and their corresponding data types tables: `https://i.imgur.com/vx1xFvS.png`
 - After creating tables, write SQL commands to:
   - Add a column Category (VARCHAR2(20)) to the PRODUCT table
   - Add a column OrderDate (DATE) to the ORDERS table which have SYSDATE as a default value
+- Write SQL commands to insert the following rows into the corresponding tables `https://i.imgur.com/DcLUzM5.png`
 
 ## Solution
 
